@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calc",
+  "description": "A clean, user-friendly smart calculator with one-tap scientific mode, calculation history, and light/dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

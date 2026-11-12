@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smart Calc</string>
+    <string name="header_title">Smart Calculator</string>
+    <string name="created_by_footer">created by Hujaify</string>
+    <string name="cd_app_logo">Smart Calc Logo</string>
+    <string name="cd_history_button">Calculation History</string>
+    <string name="cd_theme_toggle">Toggle Light or Dark Mode</string>
+    <string name="cd_scientific_toggle">Toggle Scientific Calculator</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_clear_history">Clear All History</string>
+    <string name="cd_delete_history_item">Delete History Entry</string>
+    <string name="cd_close_history">Close History</string>
+    <string name="mode_scientific">Scientific</string>
+    <string name="mode_basic">Standard</string>
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+    <string name="history_title">History</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Your recent calculations will appear here so you can reuse them anytime.</string>
+    <string name="history_tap_hint">Tap any calculation to reuse it</string>
+    <string name="clear_all">Clear All</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_history_confirm_title">Clear all history?</string>
+    <string name="clear_history_confirm_message">This will remove all saved calculations from your device.</string>
+    <string name="group_today">Today</string>
+    <string name="group_yesterday">Yesterday</string>
+    <string name="group_earlier">Earlier</string>
+</resources>
